@@ -18,3 +18,7 @@ ENV/
 env.bak/
 venv.bak/
 
+# tools
+/**/CLI-ubuntu-latest-Release-isBundled-true.zip
+/**/CLI-ubuntu-latest-Release-isBundled-true
+/**/umt_cli
