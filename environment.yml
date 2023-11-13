@@ -1,0 +1,10 @@
+name: ria_env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - fastapi
+  - uvicorn
+  - jupyter
+  - pip
+prefix: /home/jon/miniconda3/envs/ria_env
