@@ -3,8 +3,12 @@ channels:
   - defaults
 dependencies:
   - python=3.11
+  # Backend
   - fastapi
   - uvicorn
+  # Data Analysis
   - jupyter
+  - ipykernel
+  # Meta
   - pip
 prefix: /home/jon/miniconda3/envs/ria_env
